@@ -1,0 +1,10 @@
+gradio==4.37.2
+pandas==2.2.2
+numpy==1.26.4
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0
+matplotlib==3.8.4
+pillow==10.3.0
+groq
+openpyxl==3.1.2
+pyarrow==16.1.0
